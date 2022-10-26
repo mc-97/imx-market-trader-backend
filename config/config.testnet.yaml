@@ -1,0 +1,15 @@
+alchemy:
+  apiKey: 'exampleApiKey'
+database:
+  host: 'localhost'
+  port: 27017
+  name: 'imx_market_db'
+network:
+  name: 'goerli'
+  chainId: 5
+  apiBasePath: 'https://api.sandbox.x.immutable.com'
+  coreContractAddress: '0x7917eDb51ecD6CdB3F9854c3cc593F33de10c623'
+  registrationContractAddress: '0x1C97Ada273C9A52253f463042f29117090Cd7D83'
+redis:
+  host: 'localhost'
+  port: 6379
